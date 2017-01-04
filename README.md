@@ -14,4 +14,5 @@
 [Insert text into textarea at cursor position (Javascript)](http://stackoverflow.com/questions/11076975/insert-text-into-textarea-at-cursor-position-javascript)
 
 ## 其他
+来自[@district10](https://github.com/district10)的提醒：
 https://github.com/euangoddard/clipboard2markdown 提供了类似的能力。
